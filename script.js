@@ -6,7 +6,7 @@ const gif = document.querySelector(".gif");
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "I Love You Too 😘";
-  gif.src = "https://media.gifdb.com/i-love-you-too-love-heart-peach-cat-635oiagnf46d37jx.gif";
+  gif.src = "https://gifdb.com/gif/i-love-you-too-love-heart-peach-cat-635oiagnf46d37jx.html?embed=true";
 });
 
 // Make the No button move randomly on hover
